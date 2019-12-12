@@ -1,0 +1,15 @@
+.btn-grey {
+    color: white;
+    background-color: #44403F;
+    padding: 5px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 2px;
+
+
+}
+
+.btn-grey:hover {
+    color: #44403F;
+    background-color: white;
+
+}
